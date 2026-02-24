@@ -10,7 +10,7 @@ import {
   Cloud, Shield, Database, Code, Globe, Package, Search, Zap, Info, ChevronRight, RefreshCw, Layout, CheckCircle2
 } from 'lucide-react';
 
-const BACKEND_URL = '[http://178.128.50.222:3001](http://178.128.50.222:3001)';
+const BACKEND_URL = '[https://api.azero.my.id](https://api.azero.my.id)'; 
 
 // ==========================================
 // 1. HELPER: DETEKSI CLOUD PROVIDER
